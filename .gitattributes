@@ -1,5 +1,0 @@
-# https://git-scm.com/docs/gitattributes
-
-# Ensure all text files have line endings normalized
-# i.e., set to LF in repository
-* text=auto
